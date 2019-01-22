@@ -1,0 +1,20 @@
+{
+  "name": "lookmeuplol",
+  "version": "1.0.0",
+  "description": "A website created to grab a users profile and thier recent matches",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "author": "Leonard Vuniqi",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "kayn": "^0.9.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
