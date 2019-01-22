@@ -1,4 +1,4 @@
-# LookMeUpLoL
+# FindMeGG
  A website used to look up a users profile and their recent matches for League of Legends. Created as a learning experience with Node.js
 
 
